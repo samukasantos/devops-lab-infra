@@ -1,5 +1,5 @@
 variable "project_name" {
-  description = "labdevopscloud-11aso-sam"
+  description = "GCP Project name"
   type        = string
 }
 
